@@ -34,4 +34,4 @@ This is a basic demo project created to understand and practice the core concept
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   https://github.com/ashutoshpatil1410/cucumber_demo.git
